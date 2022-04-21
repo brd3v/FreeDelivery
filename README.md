@@ -2,6 +2,12 @@
 
 
 
+![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+PREVIEW:
+
+
 ![post](https://user-images.githubusercontent.com/86988869/164356302-d7c2b2c1-85c3-4d2c-a041-8a22dfe1c749.png)
 
 
