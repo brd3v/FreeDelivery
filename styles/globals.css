@@ -4,13 +4,22 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+    font-size: 18px;
 }
 
 * {
   box-sizing: border-box;
 }
+
+input{
+  border-radius: 10rem;
+  margin-top: 3rem;
+  text-align: center;
+}
+button{
+  width: 10rem;
+  margin-top: 1rem;
+  border-radius: 5rem;
+  color: (orange );
+}
+

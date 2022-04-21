@@ -1,0 +1,18 @@
+.cabecalho{
+    width: 100%;
+    position: fixed;
+    height: 5rem;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #8b8b8b;
+}
+
+
+.menu{
+    margin-right: 2rem;
+    transform: rotate(90deg); /* Equal to rotateZ(45deg) */
+    font-size: 3rem;
+  
+}

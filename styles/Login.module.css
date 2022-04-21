@@ -1,0 +1,34 @@
+.login{
+    height: 80vh;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  
+}
+
+.entrada{
+    width: 90%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    
+
+
+   
+}
+
+.campos{
+    display: table-column;
+    justify-content: center;
+}
+
+.botao{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
